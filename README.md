@@ -25,3 +25,14 @@ Classify images of skin tumors into 2 classes, benign and malignant. To predict 
 - Accuracy: 86%
 - Accuracy malignant: 84%
 - Accuracy benign: 94%
+
+### References
+- https://www.cdc.gov/spanish/cancer/skin/basic_info/index.htm
+- https://es.wikipedia.org/wiki/C%C3%A1ncer_de_piel
+- https://www.mayoclinic.org/es-es/diseases-conditions/skin-cancer/symptoms-causes/syc-20377605
+- https://thesai.org/Downloads/Volume10No7/Paper_46-Convolutional_Neural_Network.pdf
+- https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign/kernels
+- https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
+- https://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-in-pytorch/
+- https://towardsdatascience.com/batch-normalization-and-dropout-in-neural-networks-explained-with-pytorch-47d7a8459bcd
+- https://www.bbc.com/mundo/noticias/2015/05/150504_salud_cancer_piel_il
