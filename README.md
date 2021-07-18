@@ -15,11 +15,11 @@ Classify images of skin tumors into 2 classes, benign and malignant. To predict 
 ![image](https://user-images.githubusercontent.com/46162626/126080705-15107dc2-bcda-45bc-aa15-dbcb95a0a84a.png)
 
 ## Training
-- Optim : Adam
-- Cost function : CrossEntropyLoss
-- Learning rate = 0.000001
-- Batch = 10
-- Epochs = 200
+- Optim: Adam
+- Cost function: CrossEntropyLoss
+- Learning rate: 0.000001
+- Batch: 10
+- Epochs: 200
 
 ## Results
 - Accuracy: 86%
